@@ -1,1 +1,16 @@
 # music-player-v-1
+## Details...
+* This is an example of a music player...
+
+## How this site works...
+* There is some song. click the play button and enjoy song..
+## Technology...
++  JavaScript
++  CSS
++  HTML
+
+### Click below & enjoy my favourite. song...
+[CLICK ME](shahinuralambhuiyan.github.io/music-player-v-1/index.html)
+
+## Let's take a look!
+![alt text](images/site.jpg)
