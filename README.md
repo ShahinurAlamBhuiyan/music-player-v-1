@@ -13,4 +13,4 @@
 [CLICK ME](shahinuralambhuiyan.github.io/music-player-v-1/index.html)
 
 ## Let's take a look!
-![alt text](images/site.jpg)
+![alt text](images/site.png)
